@@ -1,0 +1,25 @@
+Description
+
+Net towns and CTD casts were performed around an oceanic island in the South Pacific. All records are considered independent. The abundance of plankton as well as several physical parameters of the environment were recorded.
+
+Variables
+
+appendicularia   abundance of appendicularia (in total nb of individuals per station)
+thermocline      depth of the clines, in m from the surface
+halocline
+pycnocline
+chloroMax        depth of the chlorophyll maximum, in m from the surface
+mixedDepth       depth of the mixed layer (base of the pycnocline), in m from the surface
+temperature      in degree C
+salinity         in PSU
+density          anomaly with respect to fresh water
+fluorimetry      in volts
+    average temperature, salinity, density, fluorimetry in the mixed layer
+windSpeed        wind speed at the surface, in m/s
+distance         distance from land, in m
+currentSpeed     average current speed in the mixed layer, in m/s
+timeOfDay        time of the day (day or night)
+
+Questions
+
+What are the main environmental factors affecting the abundance of Appendicularia? Do they have a strong influence?
